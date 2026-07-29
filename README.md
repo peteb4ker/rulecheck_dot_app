@@ -1,7 +1,7 @@
 # rulecheck.app
 
-Marketing site for RuleCheck, a free, fully offline rules reference for trading
-card game players and judges.
+Marketing site for Rule Check, a free, fully offline rules reference for trading
+card game players and professors.
 
 Static HTML and hand-written CSS. No build step, no dependencies, no JavaScript.
 

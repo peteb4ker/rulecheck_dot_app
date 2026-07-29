@@ -1,7 +1,7 @@
 {
-  "name": "RuleCheck",
-  "short_name": "RuleCheck",
-  "description": "A free, offline rules reference for trading card game players and judges.",
+  "name": "Rule Check",
+  "short_name": "Rule Check",
+  "description": "A free, offline rules reference for trading card game players and professors.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FBF4E8",
